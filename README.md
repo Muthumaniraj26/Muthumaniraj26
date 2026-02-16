@@ -1,135 +1,84 @@
-# Muthumaniraj S
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muthumaniraj+S;Machine+Learning+Engineer;Computer+Vision+Researcher;AI+&+Data+Science+Student;Python+•+PyTorch+•+Flask;Building+Intelligent+Systems" alt="Typing SVG" />
+</h1>
 
-Machine Learning Engineer | Computer Vision Developer | AI & Data Science Student
-
----
-
-## About Me
-
-I am a B.Tech student specializing in Artificial Intelligence and Data Science, with strong practical experience in machine learning, computer vision, and applied AI systems. My work focuses on building real-world intelligent systems for automation, monitoring, and analysis.
-
-I have hands-on experience in developing end-to-end AI solutions including data collection, model training, deployment, and system integration.
+<p align="center">
+  Computer Vision • Deep Learning • Solar Energy Research • Full Stack ML
+</p>
 
 ---
 
-## Education
+## 🚀 About Me
 
-- B.Tech in Artificial Intelligence & Data Science  
-  Ramco Institute of Technology, Tamil Nadu, India
-
----
-
-## Areas of Interest
-
-- Computer Vision and Image Processing  
-- Deep Learning and Neural Networks  
-- License Plate Recognition Systems  
-- Face Recognition and Attendance Systems  
-- Driver Monitoring and Safety Systems  
-- Plant Disease Detection  
-- Solar and Thermal Image Analysis  
-- AI-based Automation Systems  
+- **B.Tech Student** at Ramco Institute of Technology in AI & Data Science.
+- **ML Engineer** focused on Computer Vision, Thermal Imaging, and Object Detection.
+- **Researcher** exploring Photovoltaic (PV) system performance and solar forecasting models.
+- **Open Source Contributor** working on Tamil OCR and specialized deep learning architectures.
 
 ---
 
-## Technical Skills
+## 🛠 Core Skills
 
-### Programming Languages
-- Python  
-- Java  
-- JavaScript  
+### AI / Machine Learning
+- **Deep Learning:** CNNs, Transformers, YOLOv8, EfficientNetV2
+- **Computer Vision:** Image Segmentation, Thermal Imaging (FLIR), Object Detection
+- **NLP:** RAG pipelines, LLMs, Tamil Script OCR (Model Fine-tuning)
+- **Deployment:** Flask, FastAPI, TensorFlow Lite, Model Optimization for Edge
 
-### Machine Learning and AI
-- PyTorch, TensorFlow  
-- CNN, YOLOv8, EfficientNet  
-- Object Detection and Classification  
-- OCR and Text Recognition  
-- Model Optimization and Deployment  
-
-### Computer Vision
-- OpenCV  
-- Dlib  
-- Real-time Video Processing  
-- Face Recognition  
-- Number Plate Detection  
-- Thermal Image Analysis  
-
-### Data Science
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib, Plotly, Chart.js  
-- Data Cleaning and Visualization  
-
-### Backend and Deployment
-- Flask, FastAPI  
-- REST API Development  
-- PostgreSQL, SQLite  
-- Docker  
-- Linux Environment  
-
-### Development Tools
-- Git and GitHub  
-- Virtual Environments  
-- VS Code  
-- Jupyter Notebook  
+### Web & Data Science
+- **Backend:** Flask microservices, Django, Node.js (Basic)
+- **Frontend:** React, Next.js, TailwindCSS, Chart.js
+- **Data Science:** Solar Power Forecasting, PV System Performance Analysis
+- **Tools:** Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
 
 ---
 
-## Major Projects
+## 🧰 Tech Stack
 
-### License Plate Detection and Recognition System
-- Real-time vehicle detection using YOLOv8  
-- OCR using EasyOCR and TensorFlow models  
-- Database integration for vehicle entry tracking  
-- React and Flask based frontend-backend system  
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Face Recognition Attendance System
-- Dlib-based face detection and embeddings  
-- Real-time student identification  
-- SQLite database integration  
-- Fraud detection for photo attacks  
+### AI, Computer Vision & Research
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Driver Distraction Detection System
-- Deep learning model with 8 driver behavior classes  
-- Real-time alert and warning system  
-- Supports live camera and recorded video input  
-
-### Plant Disease Detection Web Application
-- CNN and EfficientNet based classification  
-- Flask web interface  
-- PDF report generation  
-- Multilingual support  
-- Real-time detection  
-
-### Motion Detection and Surveillance System
-- Motion percentage analysis  
-- Warning and alert system  
-- Professional UI with PyQt5  
-- Database logging  
-
-### Thermal and Solar Image Analysis
-- Thermal deformation detection  
-- PV system performance analysis  
-- Solar power forecasting research  
-- FLIR thermal camera integration  
+### Web & Infrastructure
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Research and Learning Focus
+## 📂 Key Projects
 
-- Advanced Computer Vision Techniques  
-- Edge AI Deployment  
-- Model Compression  
-- AI in Renewable Energy Systems  
-- Multilingual OCR Systems  
-- Real-Time AI Monitoring Systems  
+- **🔍 Archaeological Artifact Detection:** YOLOv8 and EasyOCR pipeline for identifying and classifying historical artifacts.
+- **☀️ Solar Power Forecasting App:** A full-stack solution using React Native and TensorFlow to predict PV system energy output.
+- **🌱 Plant Disease Detection:** Web application built with Flask and TensorFlow Lite to identify agricultural diseases in real-time.
+- **🔥 Thermal Deformation Analysis:** Using Computer Vision to monitor and analyze heat-induced changes in metal components.
+- **🚗 Driver Distraction System:** A deep learning model that monitors driver behavior to enhance road safety.
+- **🔠 Tamil OCR:** Specialized model fine-tuning for high-accuracy recognition of Tamil script.
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Stats
 
-Update with your username:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
 
-```html
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
+---
+
+## 📫 Contact
+
+- **Email:** (Your Email Here)
+- **LinkedIn:** [linkedin.com/in/muthumaniraj-s](https://linkedin.com/in/muthumaniraj-s)
+- **Location:** Rajapalayam, Tamil Nadu, India
