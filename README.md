@@ -1,16 +1,22 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Muthumaniraj+S;Machine+Learning+Engineer;Computer+Vision+Researcher;Building+Intelligent+Systems;AI+%26+Data+Science+Student" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=root%40muthumaniraj%3A~%23+whoami;Muthumaniraj+S;ML+Engineer+%7C+Computer+Vision+Specialist;Researcher+%7C+AI+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-FF007A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Research-Renewable%20Energy-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PyTorch-FFD700?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=header" width="100%"/>
 </p>
+
 <p align="center">
-  Computer Vision • Deep Learning • Solar Energy Research • Full Stack ML
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISION-00FF41?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code>
 </p>
 
 ---
@@ -60,6 +66,7 @@
 | **Professional** | Documentation, Code Review, Technical Storytelling, Agile Adaptability, Cross-functional Collaboration. |
 
 ---
+
 
 ## 📂 Key Projects
 
