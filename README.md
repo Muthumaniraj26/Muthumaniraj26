@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muthumaniraj+S;Machine+Learning+Engineer;python+Developer;AI+&+Data+Science+Student;Python+•+PyTorch+•+Flask;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muthumaniraj+S;Machine+Learning+Engineer;Computer+Vision+Researcher;AI+&+Data+Science+Student;Python+•+PyTorch+•+Flask;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,35 +11,18 @@
 ## 🚀 About Me
 
 - **B.Tech Student** at Ramco Institute of Technology in AI & Data Science.
-- **ML Engineer** focused on Computer Vision, Thermal Imaging, and Object Detection.
-- **Researcher** exploring Photovoltaic (PV) system performance and solar forecasting models.
-- **Open Source Contributor** working on Tamil OCR and specialized deep learning architectures.
+- **ML Engineer** specialized in Computer Vision, Thermal Imaging, and Object Detection.
+- **Researcher** investigating Photovoltaic (PV) system performance and solar power forecasting.
+- **Developer** bridging the gap between complex ML models and interactive web applications.
 
 ---
 
-## 🛠 Core Skills
-
-### AI / Machine Learning
-- **Deep Learning:** CNNs, Transformers, YOLOv8, EfficientNetV2
-- **Computer Vision:** Image Segmentation, Thermal Imaging (FLIR), Object Detection
-- **NLP:** RAG pipelines, LLMs, Tamil Script OCR (Model Fine-tuning)
-- **Deployment:** Flask, FastAPI, TensorFlow Lite, Model Optimization for Edge
-
-### Web & Data Science
-- **Backend:** Flask microservices, Django, Node.js (Basic)
-- **Frontend:** React, Next.js, TailwindCSS, Chart.js
-- **Data Science:** Solar Power Forecasting, PV System Performance Analysis
-- **Tools:** Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
-
----
-
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### AI, Computer Vision & Research
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -47,24 +30,38 @@
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Web & Infrastructure
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🧠 Expertise & Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **ML & AI** | Supervised/Unsupervised Learning, Classification, Clustering, NLP, Speech Processing, YOLOv8, CNNs, Risk Scoring, Anomaly Detection. |
+| **Math & Core** | Data Structures & Algorithms (DSA), Linear Algebra, Statistics, Analytics, Problem-solving. |
+| **Frameworks** | PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Hugging Face, OpenCV, LightGBM, XGBoost. |
+| **Tools & MLOps** | Jupyter Notebooks, Cloud Environments (AWS), Docker, MLflow, Model Evaluation (AUC, F1, Precision/Recall), Data Preprocessing. |
+| **Professional** | Documentation, Code Review, Technical Storytelling, Agile Adaptability, Cross-functional Collaboration. |
 
 ---
 
 ## 📂 Key Projects
 
-- **🔍 Archaeological Artifact Detection:** YOLOv8 and EasyOCR pipeline for identifying and classifying historical artifacts.
-- **☀️ Solar Power Forecasting App:** A full-stack solution using React Native and TensorFlow to predict PV system energy output.
-- **🌱 Plant Disease Detection:** Web application built with Flask and TensorFlow Lite to identify agricultural diseases in real-time.
-- **🔥 Thermal Deformation Analysis:** Using Computer Vision to monitor and analyze heat-induced changes in metal components.
-- **🚗 Driver Distraction System:** A deep learning model that monitors driver behavior to enhance road safety.
-- **🔠 Tamil OCR:** Specialized model fine-tuning for high-accuracy recognition of Tamil script.
+- **☀️ Solar Power Forecasting:** A research-driven application (Flask/React) for analyzing PV system performance and energy prediction.
+- **🔍 Archaeological Artifact Detection:** YOLOv8 and EasyOCR pipeline for automatic identification and recognition of historical artifacts.
+- **🌱 Plant Disease Detection:** Real-time diagnosis web app utilizing TensorFlow Lite and OpenCV for agricultural health monitoring.
+- **🚗 Driver Distraction System:** Deep learning-based safety system for real-time reporting and distraction detection.
+- **🔥 Thermal Deformation Analysis:** Specialized CV system using thermal imaging to detect structural changes in metal components.
+- **🔠 Tamil OCR:** Fine-tuning OCR models for high-accuracy recognition of Tamil script characters.
 
 ---
 
@@ -79,6 +76,6 @@
 
 ## 📫 Contact
 
-- **Email:** muthumanirajs3@gmail.com
-- **LinkedIn:** [linkedin](www.linkedin.com/in/muthumaniraj-sanjeevi)
+- **Email:** (Add your email here)
+- **LinkedIn:** [linkedin.com/in/muthumaniraj-s](https://linkedin.com/in/muthumaniraj-s)
 - **Location:** Rajapalayam, Tamil Nadu, India
