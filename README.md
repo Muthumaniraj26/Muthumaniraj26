@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=root%40muthumaniraj%3A~%23+Hub;Muthumaniraj+S;ML+Engineer+%7C+Computer+Vision+Enthusiast;Researcher+%7C+AI+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=800&color=F75040&center=true&vCenter=true&width=1000&lines=root%40muthumaniraj%3A~%23+Hub;Muthumaniraj+Sanjeevi;ML+Engineer+%7C+Computer+Vision+Enthusiast;Researcher+%7C+AI+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
-
+<!-- 00FF41 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=2&section=header" width="100%"/>
 </p>
