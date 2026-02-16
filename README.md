@@ -79,6 +79,6 @@
 
 ## 📫 Contact
 
-- **Email:** (Your Email Here)
-- **LinkedIn:** [linkedin.com/in/muthumaniraj-s](https://linkedin.com/in/muthumaniraj-s)
+- **Email:** muthumanirajs3@gmail.com
+- **LinkedIn:** [linkedin](www.linkedin.com/in/muthumaniraj-sanjeevi)
 - **Location:** Rajapalayam, Tamil Nadu, India
