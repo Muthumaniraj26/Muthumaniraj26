@@ -1,7 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muthumaniraj+S;Machine+Learning+Engineer;Computer+Vision+Researcher;AI+&+Data+Science+Student;Python+•+PyTorch+•+Flask;Building+Intelligent+Systems" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Muthumaniraj+S;Machine+Learning+Engineer;Computer+Vision+Researcher;Building+Intelligent+Systems;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  </a>
 </h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-FF007A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-Renewable%20Energy-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20PyTorch-FFD700?style=for-the-badge" />
+</p>
 <p align="center">
   Computer Vision • Deep Learning • Solar Energy Research • Full Stack ML
 </p>
@@ -76,6 +83,6 @@
 
 ## 📫 Contact
 
-- **Email:** (Add your email here)
-- **LinkedIn:** [linkedin.com/in/muthumaniraj-s](https://linkedin.com/in/muthumaniraj-s)
+- **Email:** muthumanirajs3@gmail.com
+- **LinkedIn:** [linkedin.com](https://linkedin.com/in/muthumaniraj-sanjeevi)
 - **Location:** Rajapalayam, Tamil Nadu, India
