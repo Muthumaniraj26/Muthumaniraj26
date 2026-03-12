@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/LOCATION-INDIA-00FF41?style=for-the-badge&labelColor=ffffff" />
-  <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISION-00FF41?style=for-the-badge&labelColor=ffffff" />
+  <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISION and Machine learning-00FF41?style=for-the-badge&labelColor=ffffff" />
 </p>
 
 <p align="center">
