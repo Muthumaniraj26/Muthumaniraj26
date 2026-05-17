@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=800&color=F75040&center=true&vCenter=true&width=1000&lines=root%40muthumaniraj%3A~%23+Hub;Muthumaniraj+Sanjeevi;ML+Engineer+%7C+Computer+Vision+Enthusiast;Researcher+%7C+AI+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=800&color=F75040&center=true&vCenter=true&width=1000&lines=root%40muthumaniraj%3A~%23+Hub;Muthumaniraj+Sanjeevi;ML+Engineer+%7C+Computer+Vision+Enthusiast;Ai+Engineer+%7C+AI+Architect;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 <!-- 00FF41 -->
 <p align="center">
@@ -25,7 +25,7 @@
 
 - **B.Tech Student** at Ramco Institute of Technology in AI & Data Science.
 - **ML Engineer** specialized in Computer Vision, Thermal Imaging, and Object Detection.
-- **Researcher** investigating Photovoltaic (PV) system performance and solar power forecasting.
+- **Ai Engineer** Building RAG, LLM workflows and model creation with new tech.
 - **Developer** bridging the gap between complex ML models and interactive web applications.
 
 ---
